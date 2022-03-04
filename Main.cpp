@@ -4,7 +4,7 @@ using namespace std;
 
 // il faut les points de maitrise (uniquement la réussite pour les deux premières course et aussi l'allure pour les 2 dernières) 
 // Performance vma moyenne selon garçon / fille
-
+// observation = 6 points
 
 
 int main() {
